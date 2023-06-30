@@ -1,0 +1,15 @@
+{
+  "Hosts": "127.0.0.1;localhost",
+  "StaticPath": "/path/to/static/files",
+  "TemplateRoot": "/path/to/templates",
+  "AdminToken": "admin token goes here",
+  "MinimumNameLength": 1,
+  "MaximumNameLength": 255,
+  "EncKey": "EncryptionKey.",
+  "AuthKey": "AuthenticationKey",
+  "CookieName": "cagoxOcfCookie",
+  "DatabaseName": "ocfsocial",
+  "DatabaseUserName": "username",
+  "DatabasePassword": "password",
+  "DatabaseServerURL": "server url"
+}
